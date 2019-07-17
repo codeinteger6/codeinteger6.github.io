@@ -16,6 +16,8 @@
 
 [officialpiyush/modmail-plugins](https://github.com/officialpiyush/modmail-plugins)
 
+[Taaku18/modmail-plugins](https://github.com/Taaku18/modmail-plugins)
+
 [Facebook RSS Feed Generator](https://github.com/irfancharania/fb-feed-gen)
 
 [RSS Bridge Wiki (Heroku Installation)](https://github.com/RSS-Bridge/rss-bridge/wiki/Heroku-Installation)
