@@ -22,6 +22,7 @@
 
 [RSS Bridge Wiki (Heroku Installation)](https://github.com/RSS-Bridge/rss-bridge/wiki/Heroku-Installation)
 
+[pmariglia/showdown](https://github.com/pmariglia/showdown)
 
 
 [**Visit my profile.**](https://github.com/codeinteger6)
