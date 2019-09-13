@@ -24,5 +24,7 @@
 
 [pmariglia/showdown](https://github.com/pmariglia/showdown)
 
+[Heroku Python buildpack](https://github.com/heroku/heroku-buildpack-python)
+
 
 [**Visit my profile.**](https://github.com/codeinteger6)
