@@ -26,5 +26,7 @@
 
 [Heroku Python buildpack](https://github.com/heroku/heroku-buildpack-python)
 
+[Discord L's Game Bot](https://github.com/NoobyProg/l-s-game-bot)
+
 
 [**Visit my profile.**](https://github.com/codeinteger6)
