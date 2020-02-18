@@ -22,7 +22,7 @@
 
 [RSS Bridge Wiki (Heroku Installation)](https://github.com/RSS-Bridge/rss-bridge/wiki/Heroku-Installation)
 
-[pmariglia/showdown](https://github.com/pmariglia/showdown)
+[Pokémon Showdown battle bot](https://github.com/pmariglia/showdown)
 
 [Heroku Python buildpack](https://github.com/heroku/heroku-buildpack-python)
 
