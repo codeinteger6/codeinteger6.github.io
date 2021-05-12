@@ -8,7 +8,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-    - uses: superbrothers/close-pull-request@v3
+    - uses: superbrothers/close-pull-request@v3.1
       with:
         # Optional. Post a issue comment just before closing a pull request.
         comment: "This repository does not accept PRs."
